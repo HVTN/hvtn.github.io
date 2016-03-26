@@ -11,10 +11,12 @@ html {
 /* margin reset */
 h1, h2, h3, h4, h5, h6, p,
 blockquote, ul, fieldset,
-form, ol, dl, dir, menu,
-:not(ol ol), :not(ol ul),
-:not(ul ul), :not(ul ol) {
+form, ol, dl, dir, menu {
   margin: $text-margin 0;
+}
+
+ol ol, ol ul, ul ul, ul ol {
+  margin: initial;
 }
 
 body {
