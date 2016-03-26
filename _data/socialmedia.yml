@@ -1,0 +1,8 @@
+- fa_icon: fa-tumblr-square
+  url: "http://haverthorn.tumblr.com/"
+- fa_icon: fa-twitter-square
+  url: "https://twitter.com/HaverthornMag"
+- fa_icon: fa-facebook-square
+  url: "https://www.facebook.com/Haverthorn-Magazine-1528638370711984/"
+- fa_icon: fa-rss-square
+  url: '/feed.xml'
