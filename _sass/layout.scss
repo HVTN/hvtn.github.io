@@ -1,0 +1,120 @@
+/* spacing for page content */
+
+%section {
+  margin: $section-margin-tb $section-margin-lr;
+  @media (min-width: $break-section-md) {
+    margin: $section-margin-tb-md $section-margin-lr-md;
+  }
+  @media (min-width: $break-section-lg) {
+    margin: $section-margin-tb-lg auto;
+    width: 100%;
+    max-width: $section-width-lg;
+  }
+}
+
+
+/* site header */
+
+.site-header {
+  @extend %section;
+  margin-top: $site-header-margin-top;
+  vertical-align: center;
+  @media (min-width: $break-section-md) {
+    margin-top: $site-header-margin-top-md;
+  }
+}
+
+/* site footer */
+
+.site-footer {
+  @extend %section;
+}
+
+.site-footer-links {
+  @extend .clearfix;
+  margin-bottom: -$text-margin;
+}
+
+@media (min-width: $break-site-footer-links) {
+  .site-footer-links {
+    margin-bottom: 0;
+    margin-top: -$text-margin;
+  }
+
+  .site-footer-links-left {
+    float: left;
+    width: $site-footer-links-left-width;
+    padding-right: $site-footer-links-gutter;
+  }
+
+  .site-footer-links-right {
+    float: right;
+  }
+}
+
+
+/* site content */
+
+main {
+  @extend %section;
+}
+
+.page-section {
+  margin: $subsec-margin-tb 0;
+}
+
+
+/* cover images */
+
+.cover-img {
+  width: 100%;
+}
+
+.cover-img-container {
+  width: 100%;
+  max-width: $cover-img-max-width;
+  margin: $subsec-margin-tb auto;
+}
+
+
+/* issue list */
+
+.issue-list {
+  @extend .flat-list;
+  @extend .clearfix;
+  margin-bottom: -($subsec-margin-tb);
+}
+
+.issue-list-el-left, .issue-list-el-right {
+  @extend .flat-list-el;
+  @extend .cover-img-container;
+}
+
+@media (min-width: $break-issue-list) {
+  .issue-list {
+    margin-top: -($subsec-margin-tb / 2);
+  }
+  .issue-list-el-left, .issue-list-el-right {
+    width: $issue-list-col-width;
+    margin: ($subsec-margin-tb / 2) 0;
+  }
+  .issue-list-el-left {
+    float: left;
+  }
+  .issue-list-el-right {
+    float: right;
+  }
+}
+
+/* issue pages */
+
+@media (min-width: $break-issue-page) {
+  .issue-page-cover {
+    margin-top: 0;
+    margin-left: $issue-page-gutter;
+    float: right;
+  }
+  .issue-page-content > :first-child {
+    margin-top: 0;
+  }
+}

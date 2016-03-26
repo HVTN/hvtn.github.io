@@ -1,0 +1,147 @@
+/* basic styling */
+
+html {
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  color: $base-font-color;
+  line-height: 1.25;
+}
+
+/* margin reset */
+h1, h2, h3, h4, h5, h6, p,
+blockquote, ul, fieldset,
+form, ol, dl, dir, menu,
+:not(ol ol), :not(ol ul),
+:not(ul ul), :not(ul ol) {
+  margin: $text-margin 0;
+}
+
+body {
+  @media (min-width: $break-section-md) {
+    font-size: $base-font-size-md;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $h-font-family;
+  font-weight: $base-font-weight;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  border-top: 1px solid $hr-color;
+}
+
+.cursorfix {
+  cursor: default;
+}
+
+.cursorfix a {
+  cursor: pointer;
+}
+
+
+/* site header styling */
+
+.site-title {
+  letter-spacing: 0.25em;  /* stylize "HVTN" as "H V T N" */
+  margin: 0;
+  font-size: $site-title-size;
+  @media (min-width: $break-section-md) {
+    font-size: $site-title-size-md;
+  }
+  @media (min-width: $break-section-lg) {
+    font-size: $site-title-size-lg;
+  }
+}
+.site-title a {
+  color: initial;
+  text-decoration: none;
+}
+
+/* site footer styling */
+
+.site-title-footer {
+  font-size: $base-font-size;
+  @media (min-width: $break-section-md) {
+    font-size: $base-font-size-md;
+  }
+  letter-spacing: 0.25em;  /* stylize "HVTN" as "H V T N" */
+}
+
+
+/* smaller margins */
+
+.sm-margin-top, .sm-margin {
+  margin-top: $small-margin-tb;
+}
+.sm-margin-bottom, .sm-margin {
+  margin-bottom: $small-margin-tb;
+}
+
+
+/* list styling */
+
+ul, ol {
+  padding-left: 20px;
+}
+
+.flat-list, .inline-list, .site-nav-list, .icon-list {
+  padding-left: 0;
+}
+
+.site-nav-list {
+  @extend .cursorfix;
+  font-style: italic;
+  font-size: $site-nav-font-size;
+  @media (min-width: $break-section-md) {
+    font-size: $site-nav-font-size-md;
+  }
+  @media (min-width: $break-section-lg) {
+    font-size: $site-nav-font-size-lg;
+  }
+}
+
+.flat-list-el {
+  display: block;
+}
+
+.inline-list-el, .site-nav-list-el {
+  display: inline;
+  margin-right: 0.75em;
+}
+
+.icon-list-el {
+  display: inline;
+  margin-right: 0.33em;
+}
+
+
+
+/* floats and clearfix */
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
