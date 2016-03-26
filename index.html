@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1 class="page-section">Issues</h1>
+
+<div class="page-section">
+<ul class="issue-list">{%
+for post in site.posts %}{% assign indexparity = forloop.index | modulo: 2 %}
+
+<li class="{% if indexparity == 1 %} issue-list-el-left{% else %} issue-list-el-right{% endif %}">
+    <a href="{{ post.url | prepend: site.baseurl }}"><img class="cover-img" src="{{ post.cover-img | prepend: "/img/covers/" | prepend: site.baseurl }}" alt="{{ post.title }} Cover Art{% if post.cover-artist %} by {{ post.cover-artist }}{% endif %}"/></a>
+    <h2 class="sm-margin-bottom"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} &raquo;</a></h2>
+    <p class="sm-margin-top">{{ post.date | date: "%-d %b %Y" }}</p>
+    <p>
+      {% if post.uk-price and post.uk-buy-url %}<a href="{{ post.uk-buy-url }}" target="_blank">£{{ post.uk-price }}</a>{% endif %}{% if post.uk-price and post.uk-buy-url and post.us-price and post.us-buy-url %}<br/>{% endif %}
+    {% if post.us-price and post.us-buy-url %}<a href="{{ post.us-buy-url }}" target="_blank">${{ post.us-price }}</a>{% endif %}
+    </p>
+  </li>{% endfor %}
+
+</ul>
+</div>
