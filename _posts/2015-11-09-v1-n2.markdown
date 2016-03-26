@@ -8,7 +8,7 @@ permalink: /v1-2/
 cover-img: "v1-2.jpg"
 cover-artist: Ernest Williamson
 uk-price: "4.50"
-us-price: "6.50"
+us-price: "6.95"
 uk-buy-url: "http://www.amazon.co.uk/hvtn-Vol-1-Issue-2/dp/1514633973/ref=sr_1_3?ie=UTF8&qid=1447061773&sr=8-3&keywords=hvtn"
 us-buy-url: "http://www.amazon.com/hvtn-Vol-1-Issue-2/dp/1514633973/ref=sr_1_1?ie=UTF8&qid=1447061990&sr=8-1&keywords=hvtn+poetry"
 
