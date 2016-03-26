@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article>
+
+<header class="page-section">
+  <h1 class="sm-margin-bottom">{{ page.title }}</h1>
+  <p class="sm-margin-top"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %b %Y" }}</time></p>
+</header>
+
+<div class="page-section clearfix">
+  <div class="cover-img-container issue-page-cover">
+    <img class="cover-img" src="{{ page.cover-img | prepend: "/img/covers/" | prepend: site.baseurl }}" alt="{{ page.title }} Cover Art{% if page.cover-artist %} by {{ page.cover-artist }}{% endif %}"/>
+    <p>
+      {% if page.uk-price and page.uk-buy-url %}<a href="{{ page.uk-buy-url }}" target="_blank">UK Customers (£{{ page.uk-price }})</a>{% endif %}{% if page.uk-price and page.uk-buy-url and page.us-price and page.us-buy-url %}<br/>{% endif %}
+    {% if page.us-price and page.us-buy-url %}<a href="{{ page.us-buy-url }}" target="_blank">US Customers (${{ page.us-price }})</a>{% endif %}
+    </p>
+  </div>
+
+  <div class="issue-page-content">
+    {{ content }}
+  </div>
+</div>
+
+<footer class="page-section clearfix">
+  {% if page.previous.url %}<a class="left" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% else %}<!-- no previous -->{% endif %}
+  {% if page.next.url %}<a class="right" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% else %}<!-- no next -->{% endif %}
+</footer>
+
+</article>
