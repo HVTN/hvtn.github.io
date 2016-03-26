@@ -1,0 +1,74 @@
+---
+---
+@charset "utf-8";
+
+
+/* Breakpoints for font sizes and section margins */
+$break-section-md: 31.25rem;
+$break-section-lg: 43.75rem;
+
+$base-font-size: 12pt;
+$base-font-size-md: 14pt;
+
+$site-title-size: 36pt;
+$site-title-size-md: 48pt;
+$site-title-size-lg: 64pt;
+
+$site-nav-font-size: 14pt;
+$site-nav-font-size-md: 16pt;
+$site-nav-font-size-lg: 20pt;
+
+$base-font-family: "Times New Roman", "Times", serif;
+$base-font-weight: 400;
+$base-font-color: black;
+
+$h-font-family: "Helvetica", "Arial", sans-serif;
+
+$link-color: #8282a2;
+
+$section-margin-tb: 2rem;
+$section-margin-tb-md: 2.33rem;
+$section-margin-tb-lg: 2.67rem;
+
+$section-margin-lr: 12px;
+$section-margin-lr-md: 30px;
+$section-width-lg: 640px;
+
+$subsec-margin-tb: 1.5rem;
+
+$site-header-margin-top: $section-margin-lr;
+$site-header-margin-top-md: $section-margin-lr-md;
+
+$text-margin: 1.12rem;
+
+/* for the spacing between issue titles and dates */
+$small-margin-tb: 0.5rem;
+
+$hr-color: lighten($link-color, 30);
+
+
+
+/* Variables for issue lists and pages and cover images */
+
+$cover-img-max-width: 300px;
+
+$break-issue-list: 28.125rem;
+$break-issue-page: 38.75rem;
+
+/* minimum spacing between cover image containers in issue list grid
+ * (when under breakpoint, spacing is the typical subsec spacing)
+ */
+$issue-list-col-width: 100% * (4/9);
+
+$issue-page-gutter: $text-margin;
+
+
+/* Variables for spacing of the footer */
+
+$break-site-footer-links: 21.875rem;
+
+$site-footer-links-gutter: $text-margin;
+$site-footer-links-left-width: 100% * (5/9);
+
+
+@import "base", "layout";
