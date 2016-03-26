@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="site-footer-links">
+    <div class="site-footer-links-left">
+      <h2 class="site-title-footer">{{ site.title }}</h2>
+      <address><a href="mailto:{{ site.email }}">{{ site.email }}</a></address>
+    </div>
+    <ul class="icon-list site-footer-links-right cursorfix">{%
+      for extlink in site.data.socialmedia %}
+      <li class="icon-list-el"><a href="{{ extlink.url }}" target="_blank"><span class="fa fa-lg {{ extlink.fa_icon }}"></span></a></li>{%
+      endfor %}
+    </ul>
+  </div>
+  <p>{{ site.description }}</p>
+</footer>
