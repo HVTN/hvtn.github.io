@@ -1,0 +1,41 @@
+---
+layout: post
+title: Vol. 2, Issue 1
+date: 2016-04-15 OO:OO:OO -OOOO
+categories: vol2 issue
+permalink: /v2-1/
+
+cover-img: "v2-1.jpg"
+uk-price: "4.50"
+us-price: "6.95"
+uk-buy-url: ""
+us-buy-url: ""
+
+---
+
+## Poetry
+
+- Owen Vince
+- Rosa Campbell
+- Isla Anderson
+- Martin Malone
+- Kate Wise
+- Rebecca Alifimoff
+- George Szirtes
+- Jennifer Huang
+- Iris Bloomfield
+- Gill McEvoy
+- Ariel Dawn
+- Veronica Fisbian
+- Nisha Bhakoo
+- Sofie Essex
+- Maya Owen
+
+## Short Fiction
+
+- Eleanor Matthews
+- Richard Smyth
+
+## Art
+
+- Virginia Ray _(cover)_
