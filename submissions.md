@@ -35,7 +35,7 @@ We accept works in the following categories:
 For example, if you are submitting three poems and two works
 of fiction, you will send only TWO files: one containing the
 poetry submissions, and one containing the fiction submissions.
-(Fine art submissions are the exception to this rule)
+Fine art submissions may contain multiple image files.
 
 ### Submitting Poetry
 
