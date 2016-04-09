@@ -4,6 +4,7 @@ title: Vol. 2, Issue 1
 date: 2016-04-15 00:00:00 -0000
 categories: vol2 issue
 permalink: /v2-1/
+published: true
 
 cover-img: "v2-1.jpg"
 uk-price: "4.50"
