@@ -10,7 +10,7 @@ cover-img: "v2-1.jpg"
 uk-price: "4.50"
 us-price: "6.95"
 uk-buy-url: ""
-us-buy-url: ""
+us-buy-url: "http://www.amazon.com/Hvtn-2-Issue-Haverthorn-Magazine/dp/1532704887/ref=sr_1_1?s=books&ie=UTF8&qid=1460552186&sr=1-1"
 
 ---
 
