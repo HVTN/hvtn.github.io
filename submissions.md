@@ -40,9 +40,9 @@ Fine art submissions may contain multiple image files.
 ### Submitting Poetry
 
 - Send up to 5 poems in a single attachment
-- Maximum of 100 lines per poem
+- Maximum of 75 lines per poem
 - Begin each poem on a new page
-- Make note of any special formatting concerns
+- Format your work for publishing on A5 paper (5.8 x 8.3 in)
 
 ### Submitting Fiction
 
