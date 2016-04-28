@@ -7,10 +7,6 @@ permalink: /v2-1/
 published: true
 
 cover-img: "v2-1.jpg"
-uk-price: "4.50"
-us-price: "6.95"
-uk-buy-url: "http://www.amazon.co.uk/Hvtn-2-Issue-Haverthorn-Magazine/dp/1532704887/ref=sr_1_2?ie=UTF8&qid=1460666601&sr=8-2&keywords=hvtn"
-us-buy-url: "http://www.amazon.com/Hvtn-2-Issue-Haverthorn-Magazine/dp/1532704887/ref=sr_1_1?s=books&ie=UTF8&qid=1460552186&sr=1-1"
 
 paypal-button: |
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
