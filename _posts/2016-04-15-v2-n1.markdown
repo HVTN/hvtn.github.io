@@ -55,5 +55,3 @@ paypal-button: |
 ## Art
 
 - Virginia Ray _(cover)_
-
-Testing to see if updating the website actually updates the website. If you are reading this, please disregard it.
