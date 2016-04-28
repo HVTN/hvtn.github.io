@@ -12,6 +12,21 @@ us-price: "6.95"
 uk-buy-url: "http://www.amazon.co.uk/Hvtn-2-Issue-Haverthorn-Magazine/dp/1532704887/ref=sr_1_2?ie=UTF8&qid=1460666601&sr=8-2&keywords=hvtn"
 us-buy-url: "http://www.amazon.com/Hvtn-2-Issue-Haverthorn-Magazine/dp/1532704887/ref=sr_1_1?s=books&ie=UTF8&qid=1460552186&sr=1-1"
 
+paypal-button: |
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="JMJG6M8DSPQAQ">
+  <table>
+  <tr><td><input type="hidden" name="on0" value="Select Location">Select Location</td></tr><tr><td><select name="os0">
+  	<option value="UK Orders (inc postage)">UK Orders (inc postage) £6.00 GBP</option>
+  	<option value="Non-UK Orders (inc postage)">Non-UK Orders (inc postage) £7.50 GBP</option>
+  </select> </td></tr>
+  </table>
+  <input type="hidden" name="currency_code" value="GBP">
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+  </form>
+
 ---
 
 ## Poetry
