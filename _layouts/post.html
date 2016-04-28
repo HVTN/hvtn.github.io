@@ -15,6 +15,7 @@ layout: default
       {% if page.uk-price and page.uk-buy-url %}<a href="{{ page.uk-buy-url }}" target="_blank">UK Customers (£{{ page.uk-price }})</a>{% endif %}{% if page.uk-price and page.uk-buy-url and page.us-price and page.us-buy-url %}<br/>{% endif %}
     {% if page.us-price and page.us-buy-url %}<a href="{{ page.us-buy-url }}" target="_blank">US Customers (${{ page.us-price }})</a>{% endif %}
     </p>
+    <p>Test: paypal button should appear underneath here if it exists for this issue.</p>
     {% if page.paypal-button %}{{ page.paypal-button }}{% endif %}
   </div>
 
