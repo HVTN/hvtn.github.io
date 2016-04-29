@@ -40,7 +40,7 @@ paypal-button: |
 - Ariel Dawn
 - Veronica Fibisan
 - Nisha Bhakoo
-- Sofie Essex
+- Sophie Essex
 - Maya Owen
 
 ## Short Fiction
