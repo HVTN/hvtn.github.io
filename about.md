@@ -25,7 +25,7 @@ into the world with Pyramid Editions.
 [Twitter: @andrewwells2011](https://twitter.com/andrewwells2011){: target="_blank"}
 
 **A. Leylâ Hess** is a poet and theorist whose current work engages
-with trans-female embodiment, textuality, and conceptual poetry.
+with trans-female embodiment, and textuality.
 She draws from histories ranging from process theory to Turkish folk,
 as well as from her training in physical chemistry and philosophy.
 
