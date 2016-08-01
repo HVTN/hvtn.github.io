@@ -4,8 +4,7 @@ title: Submissions
 permalink: /submissions/
 ---
 
-We are open for submissions. <br/>
-Deadline is end of August.
+Submissions to HVTN 2.2 are OPEN through 31 August 2016.
 
 ## Submissions Criteria
 
