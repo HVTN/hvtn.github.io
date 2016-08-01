@@ -4,7 +4,8 @@ title: Submissions
 permalink: /submissions/
 ---
 
-We are currently closed for submissions.
+We are open for submissions. <br/>
+Deadline is end of August.
 
 ## Submissions Criteria
 
