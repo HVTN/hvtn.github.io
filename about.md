@@ -10,8 +10,7 @@ T.S. Eliot once said that &#8216;genuine poetry can communicate before
 it is understood&#8217;. At HVTN, we want to publish writing that affects
 us before we know why and how it does so, that invites us in and locks
 the door, that resists simple classification and easy escape.
-We believe in writing that is bigger on the inside,
-writing that is greater than the sum of its parts.
+We believe in writing that is bigger on the inside, and greater than the sum of its parts.
 
 ## Editors
 
@@ -24,10 +23,9 @@ into the world with Pyramid Editions.
 [E-mail: andrew.wells8188@gmail.com](mailto:andrew.wells8188@gmail.com)<br/>
 [Twitter: @andrewwells2011](https://twitter.com/andrewwells2011){: target="_blank"}
 
-**A. Leylâ Hess** is a poet and theorist whose current work engages
+**A. Leylâ Çolpan** is a poet and theorist whose current work engages
 with trans-female embodiment, and textuality.
-She draws from histories ranging from process theory to Turkish folk,
-as well as from her training in physical chemistry and philosophy.
+Her background ranges from process theory to Turkish folk.
 
 [E-mail: aleylahess@pitt.edu](mailto:aleylahess@pitt.edu)<br/>
 [Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}
