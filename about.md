@@ -10,7 +10,7 @@ T.S. Eliot once said that &#8216;genuine poetry can communicate before
 it is understood&#8217;. At HVTN, we want to publish writing that affects
 us before we know why and how it does so, that invites us in and locks
 the door, that resists simple classification and easy escape.
-We believe in writing that is bigger on the inside, and greater than the sum of its parts.
+We believe in writing that is bigger on the inside and greater than the sum of its parts.
 
 ## Editors
 
