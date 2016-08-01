@@ -8,6 +8,8 @@ permalink: /v1-2/
 cover-img: "v1-2.jpg"
 cover-artist: Ernest Williamson
 
+paypal-button: |
+    <p>Sold Out</p>
 
 ---
 
