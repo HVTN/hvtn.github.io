@@ -7,6 +7,9 @@ permalink: /v1-1/
 
 cover-img: "v1-1.jpg"
 
+paypal-button: |
+    <p>Sold Out</p>
+
 ---
 
 ## Poetry
