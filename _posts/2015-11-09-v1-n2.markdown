@@ -7,10 +7,7 @@ permalink: /v1-2/
 
 cover-img: "v1-2.jpg"
 cover-artist: Ernest Williamson
-uk-price: ""
-us-price: ""
-uk-buy-url: ""
-us-buy-url: ""
+
 
 ---
 
