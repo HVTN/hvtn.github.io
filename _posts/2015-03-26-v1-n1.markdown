@@ -6,10 +6,6 @@ categories: vol1 issue
 permalink: /v1-1/
 
 cover-img: "v1-1.jpg"
-uk-price: "4.50"
-us-price: "6.95"
-uk-buy-url: "http://www.amazon.co.uk/Haverthorn-Vol-1-Issue/dp/1505373522/ref=sr_1_1?ie=UTF8&qid=1427651802&sr=8-1&keywords=haverthorn"
-us-buy-url: "http://www.amazon.com/Haverthorn-Vol-1-Issue/dp/1505373522/ref=sr_1_1?ie=UTF8&qid=1458515536&sr=8-1&keywords=haverthorn"
 
 ---
 
