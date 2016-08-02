@@ -27,5 +27,10 @@ into the world with Pyramid Editions.
 with trans-female embodiment, and textuality.
 Her background ranges from process theory to Turkish folk.
 
-[E-mail: aleylahess@pitt.edu](mailto:aleylahess@pitt.edu)<br/>
+[E-mail: aleylahess@pitt.edu](mailto:aleylahess@gmail.com)<br/>
 [Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}
+
+**Isla Anderson** is a poet from Surrey. She has won several awards including Tower, Foyle, and the Basil Bunting and Ledbury poetry competitions, as well as being published in a number of journals. She works with linguistic deconstruction on the themes of consumption, sexuality, and abuse. Her aim is to pull things apart.
+
+[E-mail: isla.anderson@me.com](mailto:isla.anderson@me.com)<br/>
+[Twitter: @islapoetry](https://twitter.com/islapoetry){: target="_blank"}
