@@ -33,7 +33,7 @@ Her background ranges from process theory to Turkish folk.
 [Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}
 
 <br/>
-**Isla Anderson** is a poet from Surrey. She has won several awards including Tower, Foyle, and the Basil Bunting and Ledbury poetry competitions, as well as being published in a number of journals. She works with linguistic deconstruction on the themes of consumption, sexuality, and abuse. Her aim is to pull things apart.
+**Isla Anderson** is a poet from Surrey. She has won several awards including Tower, Foyle, and the Basil Bunting and Ledbury poetry competitions, as well as being published in a number of journals. She works with linguistic deconstruction on the themes of consumption and sexuality. Her aim is to pull things apart.
 
 [E-mail: isla.anderson@me.com](mailto:isla.anderson@me.com)<br/>
 [Twitter: @islapoetry](https://twitter.com/islapoetry){: target="_blank"}
