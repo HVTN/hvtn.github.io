@@ -25,7 +25,7 @@ into the world with Pyramid Editions.
 [Twitter: @andrewwells2011](https://twitter.com/andrewwells2011){: target="_blank"}
 
 <br/>
-**A. Leylâ Çolpan** is a poet and theorist whose current work engages
+**A. Leylâ** is a poet and theorist whose current work engages
 with trans-female embodiment, and textuality.
 Her background ranges from process theory to Turkish folk.
 
