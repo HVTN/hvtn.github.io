@@ -39,7 +39,7 @@ Fine art submissions may contain multiple image files.
 
 ### Submitting Poetry
 
-- Send up to 5 poems in a single attachment
+- Send up to 5 poems in a *single* attachment
 - Maximum of 75 lines per poem
 - Begin each poem on a new page
 - Format your work for A5 paper (5.8 x 8.3 in)
@@ -56,15 +56,15 @@ Fine art submissions may contain multiple image files.
 
 - Critical theory related to literature, philosophy, aesthetics
 - Include an abstract alongside the submission
-- Maximum of 3000 words for the submission
+- Maximum of 4000 words for the submission
 - Maximum of 500 words for the abstract
 
 ### Submitting Fine Art
 
 - Submissions considered for both body and cover
-- Will accept 2-dimensional work including photography
-- Will accept both representational and non-representational work
-- Submit works as *individual* JPEGs
+- HVTN will consider 2-dimensional work including photography
+- HVTN will consider both representational and non-representational work
+- Submit works as individual JPEGs
 - Minimum resolution of 300 dpi
 
 <small> _By submitting to HVTN you agree to our [terms and conditions]({{ "/hvtn-tos.pdf" | prepend: site.baseurl }}){: target="_blank"}._</small>
