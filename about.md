@@ -28,7 +28,7 @@ into the world with Pyramid Editions.
 **A. Leylâ** is a poet and theorist whose work engages trans-female embodiment through linguistic nihilism. Her background ranges from process theory to turkish folk.
 
 [E-mail: autogalatea@gmail.com](mailto:autogalatea@gmail.com)<br/>
-[Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}
+[Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}<br/>
 [Twitter: @autogalatea](https://twitter.com/autogalatea){: target="_blank"}
 
 <br/>
