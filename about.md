@@ -23,16 +23,3 @@ into the world with Pyramid Editions.
 
 [E-mail: andrew.wells8188@gmail.com](mailto:andrew.wells8188@gmail.com)<br/>
 [Twitter: @andrewwells2011](https://twitter.com/andrewwells2011){: target="_blank"}
-
-<br/>
-**A. Leylâ** is a poet and theorist whose work engages trans-female embodiment through linguistic nihilism. Her background ranges from process theory to Turkish folk.
-
-[E-mail: autogalatea@gmail.com](mailto:autogalatea@gmail.com)<br/>
-[Tumblr: autogalatea](http://autogalatea.tumblr.com/){: target="_blank"}<br/>
-[Twitter: @autogalatea](https://twitter.com/autogalatea){: target="_blank"}
-
-<br/>
-**Isla Anderson** is a poet from Surrey. She has won several awards including Tower, Foyle, and the Basil Bunting and Ledbury poetry competitions, as well as being published in a number of journals. She works with linguistic deconstruction on the themes of consumption and sexuality. Her aim is to pull things apart.
-
-[E-mail: isla.anderson@me.com](mailto:isla.anderson@me.com)<br/>
-[Twitter: @islapoetry](https://twitter.com/islapoetry){: target="_blank"}
