@@ -3,7 +3,7 @@ layout: post
 title: Vol.  2, Issue  2
 date: 2016-10-27 00:00:00 -0000
 categories: vol. 2 issue 2
-permalink: /v2-2/
+permalink: /2016/10/27/vol2-issue2.html/
 published: true
 
 cover-img: "hvtncover2.2.jpg"
