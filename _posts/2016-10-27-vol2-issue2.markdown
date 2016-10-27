@@ -3,7 +3,7 @@ layout: post
 title: Vol.  2, Issue  2
 date: 2016-10-27 00:00:00 -0000
 categories: vol. 2 issue 2
-permalink: /2016/10/27/vol2-issue2.html/
+permalink: /vol2-issue2/
 published: true
 
 cover-img: "hvtncover2.2.jpg"
@@ -14,9 +14,9 @@ paypal-button: |
     <input type="hidden" name="hosted_button_id" value="CAUCNFHTGZ95Y">
     <table>
     <tr><td><input type="hidden" name="on0" value="Prices">Prices</td></tr><tr><td><select name="os0">
-	    <option value="UK Orders (post inc.)">UK Orders (post inc.) £6.00 GBP</option>
-	    <option value="UK Student Orders (post inc.)">UK Student Orders (post inc.) £5.00 GBP</option>
-	    <option value="Non-UK Orders (post inc.)">Non-UK Orders (post inc.) £7.50 GBP</option>
+	<option value="UK Orders (post inc.)">UK Orders (post inc.) £6.00 GBP</option>
+	<option value="UK Student Orders (post inc.)">UK Student Orders (post inc.) £5.00 GBP</option>
+	<option value="Non-UK Orders (post inc.)">Non-UK Orders (post inc.) £7.50 GBP</option>
     </select> </td></tr>
     </table>
     <input type="hidden" name="currency_code" value="GBP">
